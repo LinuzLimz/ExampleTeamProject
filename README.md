@@ -4,4 +4,4 @@
 
 Sample repo demonstrating example team project setup and CI build (automated tests to come later)
 
-Using build-tools 30.0.3 and SDK version 30
+Using build tools 30.0.3 and SDK version 30
